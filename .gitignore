@@ -1,0 +1,16 @@
+.vscode/
+.idea/
+.DS_Store
+
+*/nltk_data/
+nltk_data/
+
+dataset/OBC2/
+dataset/trial_texts/
+*.csv
+*.xml
+
+.DS_Store
+Thumbs.db
+.env
+.env.local

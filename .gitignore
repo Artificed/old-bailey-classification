@@ -16,3 +16,8 @@ Thumbs.db
 .env.local
 
 references/
+dataset/cleaned_texts/
+dataset/final_cleaned_texts/
+
+classification/hybrid-*
+classification/standard-*
